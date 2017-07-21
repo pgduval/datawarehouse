@@ -9,13 +9,16 @@ Welcome to Datawarehouse's documentation!
 Contents:
  
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
  
-   doc_fonctionelle
- 
+   jb_load_warehouse
+   jb_load_fact
+   tr_fact1
+   jb_load_dimension
+   tr_dim1
+   tr_dim2
+
 Indices and tables
 ==================
  
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
